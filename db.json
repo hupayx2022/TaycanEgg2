@@ -4,7 +4,6 @@
 
     "id": 0,
     "description": "Grade : Unique",
-    "type": "Ground",
     "external_url": "https://hupayx.io",
     "image": "https://bafybeidafjzet4b4aeo5vftd3im5q24e7v5dkpk7llodn6dsooeewyrueq.ipfs.nftstorage.link/",
     "name": "KING TAYCAN EGG"
@@ -12,6 +11,7 @@
   {
     "id": 1,
     "description": "Grade : Normal",
+    "type": "Ground",
     "external_url": "https://hupayx.io",
     "image": "https://bafybeihjzdkfehcfeyvkg2ta4ywhqxkgvgn6bltl2pj2id7h3kdu7uqioi.ipfs.nftstorage.link/",
     "name": "WHITE TAYCAN EGG"
